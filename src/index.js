@@ -1,4 +1,5 @@
 import './style.css'
-import {hi} from "./world";
+import favicons from "favicons";
+import {hi} from "./ships";
 
 hi();
